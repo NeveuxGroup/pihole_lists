@@ -1,7 +1,14 @@
-
 # Title: SOPH/hosts
 #
 # This hosts file is a random collection of domains use at your own risk
+#
+#
+# Date: 09 January 2025 16:04:30 (UTC)
+# Number of unique domains: 55
+#
+# Fetch the latest version of this file: https://raw.githubusercontent.com/NeveuxGroup/pihole_lists/refs/heads/main/hosts
+# Project home page: https://github.com/NeveuxGroup/pihole_lists
+# Project releases: https://github.com/NeveuxGroup/pihole_lists
 #
 # ===============================================================
 
@@ -20,10 +27,8 @@ ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
 
-# Custom host records are listed here.
-
-
-# End of custom host records.
+# Custom host records are listed here
+# End of custom host records
 # Start SOPH
 
 #=====================================
